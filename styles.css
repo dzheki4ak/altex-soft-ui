@@ -293,3 +293,11 @@
 .carousel-indicators .active {
   background-color: #fff;
 }
+
+.navbar-light .navbar-nav .nav-item .homelink {
+  color: #fff;
+}
+
+.navbar-light .navbar-nav .nav-item:hover .nav-link {
+  color: #fff;
+}
