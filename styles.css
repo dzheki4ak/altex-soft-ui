@@ -51,6 +51,14 @@
   padding: 8px;
 }
 
+.left {
+  padding-left: 0;
+}
+
+.right {
+  padding-right: 0;
+}
+
 .navbar {
   padding: 0;
 }
